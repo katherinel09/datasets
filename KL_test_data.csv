@@ -1,0 +1,7 @@
+child, parent
+food, ""
+fruits,food
+veggies, food
+strawberries,fruits
+cherries,fruits
+blackberries,fruits
