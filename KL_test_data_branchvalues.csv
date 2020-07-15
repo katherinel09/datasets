@@ -1,0 +1,9 @@
+child, parent, values
+food, "", 10
+fruits,food, 6
+veggies, food, 4
+strawberries,fruits, 2
+cherries,fruits, 2
+blackberries,fruits, 2
+zucchini, veggies, 2
+carrots, veggies, 2
